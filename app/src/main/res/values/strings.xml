@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">WifiAccessApp</string>
+        <string name="enter_target">Enter Calories</string>
+        <string name="enter_walking">Walking Minutes</string>
+        <string name="enter_biking">Biking Minutes</string>
+        <string name="enter_running">Running Minutes</string>
+        <string name="target">Daily Calorie Goal</string>
+        <string name="minutes">Enter Minutes</string>
+        <string name="calculate_caloires">Calculate Calories</string>
+        <string name="error">Invaild Entry</string>
+        <string name="motivation">Keep up the good work!</string>
+        <string name="daily_mins">Enter Your Daily Minutes Here</string>
+</resources>
